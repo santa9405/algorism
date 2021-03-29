@@ -3,7 +3,7 @@ package chap01;
 import java.util.Scanner;
 
 // 문제
-// 4가지의 직각삼각형 모양으로 나타냅니다.
+// 직각 이등변 삼각형을 출력하는 부분을 메서드로 작성하세요.
 public class Q15 {
 	// 왼쪽 아래가 직각인 이등변삼각형을 출력
 	static void triangleLB(int n) {

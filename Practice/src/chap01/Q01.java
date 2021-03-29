@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 문제
 // 네 값의 최댓값을 구하는 max4 메서드를 작성하세요.
-class Q1 {
+class Q01 {
 	// a, b, c, d의 최댓값을 구하여 반환
 	static int max4(int a, int b, int c, int d) {
 		int max = a; 	// 최댓값

@@ -1,7 +1,7 @@
 package chap01;
 
 // 문제
-// 구구단 대신 덧셈 표를 나타냅니다.
+// 곱셈이 아니라 덧셈을 출력하는 프로그램을 작성하세요.
 class Q13 {
 	public static void main(String[] args) {
 

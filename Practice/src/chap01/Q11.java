@@ -3,7 +3,7 @@ package chap01;
 import java.util.Scanner;
 
 // 문제
-// 양의 정수값의 자릿수를 구하여 나타냅니다.
+// 양의 정수를 입력하고 자릿수를 출력하는 프로그램을 작성하세요.
 class Q11 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 문제
 // n이 7이면 '1 + 2 + 3 + 4 + 5 + 6 + 7 = 28'로 출력하는 프로그램을 작성하세요.
-class Q7 {
+class Q07 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 

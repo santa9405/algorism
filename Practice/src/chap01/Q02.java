@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 문제
 // 세 값의 최솟값을 구하는 min3 메서드를 작성하세요.
-class Q2 {
+class Q02 {
    // a, b, c의 최솟값을 구하여 반환
    static int min3(int a, int b, int c) {
       int min = a;         			// 최솟값

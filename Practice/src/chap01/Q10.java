@@ -3,7 +3,7 @@ package chap01;
 import java.util.Scanner;
 
 // 문제
-// 정수 b에서 정수 a를 뺀 값을 구합니다(b > a가 되도록 입력 받음).
+// 두 변수 a, b에 정수를 입력하고 b - a를 출력하는 프로그램을 작성하세요.
 class Q10 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

@@ -3,7 +3,7 @@ package chap01;
 import java.util.Scanner;
 
 // 문제
-// 정사각형 모양을 나타냅니다.
+// 입력한 수를 한 변으로 하는 정사각형을 *로 출력하는 프로그램을 작성하세요.
 public class Q14 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

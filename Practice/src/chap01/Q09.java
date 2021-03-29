@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 문제
 // 정수 a, b를 포함하여 그 사이의 모든 정수의 합을 구하여 반환하는 아래 메서드를 작성하세요.
 // static int sumof(int a, int b)
-public class Q9 {
+public class Q09 {
 	
 	static int sumof(int a, int b) {
 		
