@@ -2,7 +2,6 @@ package chap02;
 
 import java.util.Random;
 import java.util.Scanner;
-
 // 배열 요소의 최댓값을 나타냅니다(값을 난수로 생성).
 
 public class MaxOfArrayRand {
